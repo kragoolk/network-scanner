@@ -191,7 +191,7 @@ sudo journalctl -u network-scanner -f
 - [ ] SNMP device interrogation
 - [ ] Webhook/email alerting for new devices
 - [ ] SQLite database for long-term history
-- [ ] Web dashboard UI (React frontend)
+- [X] Web dashboard UI (React frontend)
 - [ ] Prometheus metrics export
 - [ ] Docker containerization
 - [ ] IPv6 support
@@ -200,8 +200,6 @@ sudo journalctl -u network-scanner -f
 ## License
 
 MIT License - See LICENSE file for details
-
-## Author
 
 ## Author
 
