@@ -22,6 +22,7 @@ A high-performance network scanning and monitoring tool built in Go, featuring c
 
 ## Architecture
 network-scanner/
+
 ├── main.go # CLI scanner entry point
 
 ├── server.go # REST API server entry point
